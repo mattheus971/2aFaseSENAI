@@ -1,0 +1,8 @@
+.corpo-container{
+    background-color: rgb(221, 221, 221);
+    min-height: calc(100vh - 70px);
+    padding: 16px;
+    display: flex;
+    gap: 16px;
+    flex-direction: column;
+}
