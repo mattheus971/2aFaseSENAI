@@ -6,3 +6,8 @@
     gap: 16px;
     flex-direction: column;
 }
+
+.imagem-corpo{
+    width: 500px;
+    border-radius: 999px;
+}
