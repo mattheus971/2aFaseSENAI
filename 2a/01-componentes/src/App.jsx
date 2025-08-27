@@ -1,7 +1,6 @@
 import './App.css'
 import Corpo from './components/Corpo'
 import Navbar from './components/Navbar'
-import Texto from './components/Texto'
 
 function App() {
 

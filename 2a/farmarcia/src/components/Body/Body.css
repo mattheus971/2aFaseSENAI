@@ -1,0 +1,10 @@
+.container-body{
+    background-color: white;
+    min-height: calc(100vh - 70px);
+    padding: 32px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-direction: column;
+    padding: 32px;
+}

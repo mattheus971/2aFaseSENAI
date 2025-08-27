@@ -1,0 +1,23 @@
+.container-introducao{
+    width: 70%;
+    min-height: 100px;
+    border-radius: 8px;
+    padding: 32px;
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    border: solid 2px #e96a7e;
+}
+
+.imagem-placa{
+    width: 400px;
+    border-radius: 16px;
+}
+
+.titulo-subtitulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 16px;
+}

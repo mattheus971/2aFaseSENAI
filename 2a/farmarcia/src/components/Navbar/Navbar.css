@@ -1,0 +1,11 @@
+.container-navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}
+
+.container-navbar a {
+    text-decoration: none;
+    color: white;
+  }
