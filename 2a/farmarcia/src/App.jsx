@@ -5,10 +5,10 @@ import Body from './components/Body/Body'
 function App() {
 
   return (
-    <div className='container-app'>
+    <>
     <Header />
     <Body />
-    </div>
+    </>
   )
 }
 
