@@ -1,0 +1,13 @@
+.container-conversor-moedas{
+    background-color: rgb(214, 214, 214);
+    display: flex;
+    width: 50%;
+    min-height: 200px;
+    border-radius: 9px;
+    padding: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
